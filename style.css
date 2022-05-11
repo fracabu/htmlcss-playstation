@@ -1,20 +1,18 @@
 .logo-sony{
     width: 100px;
 }
-
 .btn{
     border-radius: 1.25rem;
 
 }
-
 .img-jumbo{
     border-radius: 20px;
 }
+
 .my-section{
     position: relative;
     height: 800px;
 }
-
 .bg-image{
     position: absolute;
     top: 0;
@@ -43,7 +41,6 @@
     width: 300px;
 }
 
-
 .section-dark-blue{
     background-color: #161C3B;
 }
@@ -53,7 +50,6 @@
     padding-top: 6rem;
     padding-bottom: 2rem;
 }
-
 
 .btn-light{
     margin-top: 2rem;
@@ -84,6 +80,8 @@
     padding-bottom: 5rem;
 }
 
+
+/* BREAKPOINTS-MEDIA-QUERY */
 @media (min-width: 576px) { 
 
 

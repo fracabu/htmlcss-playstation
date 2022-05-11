@@ -43,3 +43,74 @@
     width: 300px;
 }
 
+
+.section-dark-blue{
+    background-color: #161C3B;
+}
+
+.logo-ps-now{
+    width: 300px;
+    padding-top: 6rem;
+    padding-bottom: 2rem;
+}
+
+
+.btn-light{
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+}
+
+.logo-social{
+    width: 120px;
+    
+}
+
+.box-loghi-social{
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+}
+
+.section-social{
+    padding-top: 5rem;
+    padding-bottom: 8rem;
+}
+
+.section-footer{
+    background-color: #00439C;
+}
+
+.logo-ps-footer{
+    width: 100px;
+    padding-bottom: 5rem;
+}
+
+@media (min-width: 576px) { 
+
+
+}
+
+
+@media (min-width: 768px) {
+
+
+}
+
+
+@media (min-width: 992px) {
+
+
+}
+
+
+@media (min-width: 1200px) {
+
+
+
+}
+
+
+@media (min-width: 1400px) {
+
+
+
+}

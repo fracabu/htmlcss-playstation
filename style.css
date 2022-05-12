@@ -1,6 +1,12 @@
 .logo-sony{
     width: 100px;
 }
+
+.header{
+    position: sticky;
+    top: -32px;
+    z-index: 1020;
+}
 .btn{
     border-radius: 1.25rem;
 

@@ -86,26 +86,37 @@
     padding-bottom: 5rem;
 }
 
+.img-play{
+    width: 100%;
+}
 
 /* BREAKPOINTS-MEDIA-QUERY */
+
+/* XS INFERIORI A 576px */
+
+/* SM */
 @media (min-width: 576px) { 
+.w-100{
+    width: 50%;
+    
+}
 
 
 }
 
-
+/* MD */
 @media (min-width: 768px) {
 
 
 }
 
-
+/* LG */
 @media (min-width: 992px) {
 
 
 }
 
-
+/* XL */
 @media (min-width: 1200px) {
 
 

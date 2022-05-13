@@ -90,6 +90,10 @@
     width: 100%;
 }
 
+.bars-menu{
+    width: 25px;
+}
+
 /* BREAKPOINTS-MEDIA-QUERY */
 
 /* XS INFERIORI A 576px */
